@@ -1,0 +1,15 @@
+# PyInstaller / Build artifacts
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Archivos generados por el usuario
+Gafetes_*/
+plantilla_gafetes.csv
